@@ -35,8 +35,7 @@ public class Kot <String, T> {
 	    }
 	    
 	    public void main(String[] args){
-
-	    	
+	    	//nie działam
 	    }
 
 }
